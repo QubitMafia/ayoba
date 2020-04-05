@@ -1,7 +1,7 @@
 {
   "main.css": "/ayoba/static/css/main.38ba9ece.chunk.css",
-  "main.js": "/ayoba/static/js/main.a044a861.chunk.js",
-  "main.js.map": "/ayoba/static/js/main.a044a861.chunk.js.map",
+  "main.js": "/ayoba/static/js/main.0096d9a8.chunk.js",
+  "main.js.map": "/ayoba/static/js/main.0096d9a8.chunk.js.map",
   "static/js/1.5a80405e.chunk.js": "/ayoba/static/js/1.5a80405e.chunk.js",
   "static/js/1.5a80405e.chunk.js.map": "/ayoba/static/js/1.5a80405e.chunk.js.map",
   "runtime~main.js": "/ayoba/static/js/runtime~main.9c407855.js",
@@ -10,6 +10,6 @@
   "static/media/index.css": "/ayoba/static/media/icon-check.b4084e44.svg",
   "static/css/main.38ba9ece.chunk.css.map": "/ayoba/static/css/main.38ba9ece.chunk.css.map",
   "index.html": "/ayoba/index.html",
-  "precache-manifest.a430f7d10796385a58b8855c8773b50e.js": "/ayoba/precache-manifest.a430f7d10796385a58b8855c8773b50e.js",
+  "precache-manifest.7bcaa0b1254e16c9074994f420249c94.js": "/ayoba/precache-manifest.7bcaa0b1254e16c9074994f420249c94.js",
   "service-worker.js": "/ayoba/service-worker.js"
 }
