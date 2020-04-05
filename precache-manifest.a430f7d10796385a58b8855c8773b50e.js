@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6e2e7a53b9fe468e9bb5",
+    "revision": "a044a861f7e8935e7cca",
     "url": "/ayoba/static/css/main.38ba9ece.chunk.css"
   },
   {
-    "revision": "6e2e7a53b9fe468e9bb5",
-    "url": "/ayoba/static/js/main.6e2e7a53.chunk.js"
+    "revision": "a044a861f7e8935e7cca",
+    "url": "/ayoba/static/js/main.a044a861.chunk.js"
   },
   {
     "revision": "5a80405e8fff7c81f25f",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ayoba/static/media/icon-check.b4084e44.svg"
   },
   {
-    "revision": "5105663b8baccd8277074e9c38ae0efa",
+    "revision": "8689aabff1e376b8dbd60603ab1cce1e",
     "url": "/ayoba/index.html"
   }
 ];
