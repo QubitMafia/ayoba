@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/ayoba/precache-manifest.7bcaa0b1254e16c9074994f420249c94.js"
+  "/ayoba/precache-manifest.d06da8280c3a07ac295fc0766707efa3.js"
 );
 
 workbox.clientsClaim();
